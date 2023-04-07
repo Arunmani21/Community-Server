@@ -13,7 +13,7 @@ MongoDB v4.x.x or later
 
 To clone the project
 ```
-git clone https://github.com/your-username/community-management-api.git
+git clone https://github.com/Arunmani21/Community-Server.git
 ```
 
 
